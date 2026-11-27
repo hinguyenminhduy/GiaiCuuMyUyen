@@ -1,0 +1,18 @@
+{
+  "name": "Hỏi Xàm Đáp Nhanh",
+  "short_name": "Hỏi Xàm",
+  "description": "Gameshow đố vui của Nguyễn Minh Duy: 300 câu đố, Đấu Trường Xàm và Giải cứu Mỹ Uyên.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2350e6",
+  "theme_color": "#2350e6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
